@@ -1,0 +1,9 @@
+{
+	"name": "slack-slashcommands-weather",
+	"version": "0.0.1",
+	"dependencies": {
+		"body-parser": "^1.18.2",
+		"express": "^4.16.2",
+		"sync-request": "^6.0.0"
+	}
+}
